@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @oniPhantom
+- 🌱 I’m currently learning Ruby on Rails.

@@ -4,14 +4,15 @@ Web application development, workflow automation, and AI-assisted product buildi
 
 I like turning messy operations into tools that are easier to run, review, and improve.
 
+Web アプリケーション開発、業務フローの自動化、AI を使った開発支援に関心があります。
+日々の作業や判断が散らばらないように、実装・レビュー・ドキュメント化までを扱いやすい形に整えるのが好きです。
+
 ## Focus
 
 - Building practical web apps with TypeScript, Astro, Next.js, and Rails
 - Designing workflows for AI-assisted development, review, and documentation
 - Automating small but annoying operational tasks
 - Keeping implementation, UX, and handoff quality visible through docs and checks
-
-## Projects
 
 ## Toolbox
 

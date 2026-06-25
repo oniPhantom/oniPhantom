@@ -13,13 +13,6 @@ I like turning messy operations into tools that are easier to run, review, and i
 
 ## Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [indie-game-discover](https://github.com/oniPhantom/indie-game-discover) | Indie game discovery site using Steam data and AI-generated introductions | Astro, GitHub Models |
-| [study-site](https://github.com/oniPhantom/study-site) | Personal knowledge base powered by Quartz | TypeScript, Quartz |
-| [ishizue-demo-salon](https://github.com/oniPhantom/ishizue-demo-salon) | Hair salon booking demo for a portfolio-style web presence | TypeScript, Next.js |
-| [hookping](https://github.com/oniPhantom/hookping) | Small Rust experiment around lightweight hooks / notifications | Rust |
-
 ## Toolbox
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

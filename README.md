@@ -30,9 +30,3 @@ Web アプリケーション開発、業務フローの自動化、AI を使っ�
 - UX that matches the real saved/submitted state
 - Review artifacts that another person can verify mechanically
 - Documentation that reduces the next person's cognitive load
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oniPhantom&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oniPhantom&layout=compact&hide_border=true)

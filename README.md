@@ -6,6 +6,7 @@ I like turning messy operations into tools that are easier to run, review, and i
 
 Web アプリケーション開発、業務フローの自動化、AI を使った開発支援に関心があります。
 日々の作業や判断が散らばらないように、実装・レビュー・ドキュメント化までを扱いやすい形に整えるのが好きです。
+プロダクトの意図、実装、運用がつながるところを整理することを重視しています。
 
 ## Focus
 
